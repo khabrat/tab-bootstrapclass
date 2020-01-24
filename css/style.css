@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+html {
+	height: 100%;
+}
+body {
+	margin: 0 auto;
+	min-height: 100%;
+	background: #86596214;
+}
+.jumbotron {
+	display: none;
+}
+.jumbotron:first-child {
+	display: block;
+}
+.container {
+	padding: 0;
+}
